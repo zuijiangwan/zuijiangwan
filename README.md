@@ -1,8 +1,12 @@
-- 👋 在下罪_江晚，妮可计科在读本科生
-- 👀 Havn't clearly known my interested domain.
-- 🌱 I’m currently learning ... nothing but what USTC force me to.
-- 💞️ I’m looking to collaborate on ... any laboratory whose owner is willing to accept me.:persevere:
-- 📫 CONTACT me at `dhy1379372633@mail.ustc.edu.cn`
+My name is Heyu Ding. 
+I am currently an undergraduate of computer science at University of Science and Technology of China, and I plan to persue for master's degree at USTC.
+My research interets include embedded system, AI computing system and computer vision.
+See more details at my [personal website](zuijiangwan.github.io).
+Contact me at my [email](dhy1379372633@mail.ustc.edu.cn).
+- 🌳AGE: 21
+- 🙋‍♀️MBTI: istj
+- 🎼HABIT: choral singing (an Alto of USTChorus)
+- 💯GPA: [3.5, 3.6]
 
 <!---
 zuijiangwan/zuijiangwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
