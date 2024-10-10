@@ -1,8 +1,8 @@
 My name is Heyu Ding. 
 I am currently an undergraduate of computer science at University of Science and Technology of China, and I plan to persue for master's degree at USTC.
 My research interets include embedded system, AI computing system and computer vision.
-See more details at my [personal website](zuijiangwan.github.io).
-Contact me at my [email](dhy1379372633@mail.ustc.edu.cn).
+See more details at my [personal website](https://zuijiangwan.github.io).
+Contact me at my [email](https://dhy1379372633@mail.ustc.edu.cn).
 - 🌳AGE: 21
 - 🙋‍♀️MBTI: istj
 - 🎼HABIT: choral singing (an Alto of USTChorus)
