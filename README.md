@@ -1,5 +1,6 @@
 My name is Heyu Ding. 
-I am currently an undergraduate of computer science at University of Science and Technology of China, and I plan to persue for master's degree at USTC.
+I am currently an undergraduate of computer science at University of Science and Technology of China, 
+and I plan to persue for master's degree at USTC in the next four years.
 My research interets include embedded system, AI computing system and computer vision.
 See more details at my [personal website](https://zuijiangwan.github.io).
 - 🌳AGE: 21
